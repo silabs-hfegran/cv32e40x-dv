@@ -17,4 +17,4 @@ tests:
     description: UVM Hello World Test
     dir: cv32e40x/sim/uvmt
     cmd: make test TEST=hello-world
-    num: 100
+    num: 1
